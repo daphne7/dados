@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DADOSS</string>
+    <string name="action_settings">Settings</string>
+    <string name="quitar">Quitar</string>
+    <string name="rodar">Rodar</string>
+    <string name="textview">TextView</string>
+    <string name="agregar">Agregar</string>
+</resources>
